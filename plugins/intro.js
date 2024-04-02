@@ -56,8 +56,8 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │ Place       : SRILANKA
 │ Gender    :  Male
 │ Age          : 18_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
+│ Phone     : https://wa.me/94784192378
+│ whatsapp group   : https://chat.whatsapp.com/HsPiKU0POmU6Pbg4SLwi90
 │ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
